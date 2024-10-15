@@ -6,7 +6,7 @@ This is a simple Discord bot built with Python and the `discord.py` library that
 
 1. **$hello**: The bot responds with a greeting message when a user types `$hello` in the chat.
 2. **$meme**: The bot fetches a random meme from the Meme API and shares it in the channel when a user types `$meme`.
-3. **$eman**: The bot sends a humorous message about Eman and their skill at Valorant when the user types `$eman`.
+3. **$eman**: The bot sends a  message about my friend Eman and their terrible skills at Valorant when the user types `$eman`.
 
 ## Prerequisites
 
